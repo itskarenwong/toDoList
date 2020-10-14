@@ -1,3 +1,6 @@
+<!-- Karen Wong -->
+<!-- todos.js -->
+
 // Check off specific to-dos by clicking
 $("ul").on("click", "li", function(){
     $(this).toggleClass("completed");
